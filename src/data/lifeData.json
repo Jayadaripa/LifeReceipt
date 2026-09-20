@@ -1,0 +1,3605 @@
+{
+  "meta": {
+    "years": [
+      2013,
+      2024
+    ],
+    "generatedFrom": [
+      "Spotify history",
+      "Augmented India transactions 2024",
+      "Daily Household Transactions"
+    ]
+  },
+  "music": {
+    "events": 149860,
+    "hours": 5341.5,
+    "artists": 4113,
+    "tracks": 13839,
+    "topArtists": [
+      {
+        "name": "The Beatles",
+        "count": 13621
+      },
+      {
+        "name": "The Killers",
+        "count": 6878
+      },
+      {
+        "name": "John Mayer",
+        "count": 4855
+      },
+      {
+        "name": "Bob Dylan",
+        "count": 3814
+      },
+      {
+        "name": "Paul McCartney",
+        "count": 2697
+      },
+      {
+        "name": "Led Zeppelin",
+        "count": 2482
+      },
+      {
+        "name": "Johnny Cash",
+        "count": 2478
+      },
+      {
+        "name": "The Rolling Stones",
+        "count": 2390
+      },
+      {
+        "name": "Radiohead",
+        "count": 2305
+      },
+      {
+        "name": "The Black Keys",
+        "count": 2231
+      }
+    ],
+    "topTracks": [
+      {
+        "name": "Ode To The Mets",
+        "count": 207
+      },
+      {
+        "name": "In the Blood",
+        "count": 181
+      },
+      {
+        "name": "Dying Breed",
+        "count": 166
+      },
+      {
+        "name": "Caution",
+        "count": 164
+      },
+      {
+        "name": "19 Dias y 500 Noches - En Directo",
+        "count": 148
+      },
+      {
+        "name": "For What It's Worth",
+        "count": 146
+      },
+      {
+        "name": "Concerning Hobbits",
+        "count": 142
+      },
+      {
+        "name": "All These Things That I've Done",
+        "count": 142
+      },
+      {
+        "name": "Come Together - Remastered 2009",
+        "count": 137
+      },
+      {
+        "name": "The Boxer",
+        "count": 135
+      }
+    ],
+    "yearly": [
+      {
+        "year": 2013,
+        "events": 185,
+        "hours": 7.8
+      },
+      {
+        "year": 2014,
+        "events": 23,
+        "hours": 1.0
+      },
+      {
+        "year": 2015,
+        "events": 2809,
+        "hours": 59.2
+      },
+      {
+        "year": 2016,
+        "events": 6413,
+        "hours": 197.6
+      },
+      {
+        "year": 2017,
+        "events": 26320,
+        "hours": 670.6
+      },
+      {
+        "year": 2018,
+        "events": 14817,
+        "hours": 474.2
+      },
+      {
+        "year": 2019,
+        "events": 14927,
+        "hours": 479.2
+      },
+      {
+        "year": 2020,
+        "events": 24280,
+        "hours": 920.7
+      },
+      {
+        "year": 2021,
+        "events": 22991,
+        "hours": 891.8
+      },
+      {
+        "year": 2022,
+        "events": 16202,
+        "hours": 641.6
+      },
+      {
+        "year": 2023,
+        "events": 11023,
+        "hours": 515.1
+      },
+      {
+        "year": 2024,
+        "events": 9870,
+        "hours": 482.7
+      }
+    ],
+    "categories": [
+      {
+        "name": "Listening",
+        "count": 149860
+      }
+    ],
+    "eventsRecent": [
+      {
+        "id": "m0",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "God Only Knows - Mono",
+        "subtitle": "The Beach Boys • Pet Sounds",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m1",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "I Don't Trust Myself (With Loving You)",
+        "subtitle": "John Mayer • Continuum",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m2",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "Stop This Train - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+        "subtitle": "John Mayer • Where the Light Is: John Mayer Live In Los Angeles",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m3",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "Magical Mystery Tour - Remastered 2009",
+        "subtitle": "The Beatles • Magical Mystery Tour",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m4",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "On The Way Home",
+        "subtitle": "John Mayer • Paradise Valley",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m5",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "Wild Horses - 2009 Mix",
+        "subtitle": "The Rolling Stones • Sticky Fingers",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m6",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "Eight Line Poem - 2015 Remaster",
+        "subtitle": "David Bowie • Hunky Dory",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m7",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "I'm the Only Hell My Mama Ever Raised",
+        "subtitle": "Willie Nelson • First Rose of Spring",
+        "value": 0.1,
+        "unit": "min"
+      },
+      {
+        "id": "m8",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "Who Cares",
+        "subtitle": "Paul McCartney • Egypt Station",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m9",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "Love Me Tender - From the 20th Century-Fox CinemaScope Production, \"Love Me Tender\"",
+        "subtitle": "Elvis Presley • Elvis' Golden Records",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m10",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "Closer",
+        "subtitle": "The Chainsmokers • Closer",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m11",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "Black Country Woman - Remaster",
+        "subtitle": "Led Zeppelin • Physical Graffiti",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m12",
+        "type": "Music",
+        "date": "2024-12-15 23:06",
+        "title": "Color Esperanza",
+        "subtitle": "Diego Torres • Mis Favoritas",
+        "value": 0.2,
+        "unit": "min"
+      },
+      {
+        "id": "m13",
+        "type": "Music",
+        "date": "2024-12-15 23:05",
+        "title": "Tierra",
+        "subtitle": "Xoel López • Atlántico",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m14",
+        "type": "Music",
+        "date": "2024-12-15 23:05",
+        "title": "The National Anthem",
+        "subtitle": "Radiohead • Kid A",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m15",
+        "type": "Music",
+        "date": "2024-12-15 23:05",
+        "title": "Young Girls",
+        "subtitle": "Bruno Mars • Unorthodox Jukebox",
+        "value": 0.1,
+        "unit": "min"
+      },
+      {
+        "id": "m16",
+        "type": "Music",
+        "date": "2024-12-15 23:05",
+        "title": "Reunion of Friends",
+        "subtitle": "John Williams • Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
+        "value": 0.4,
+        "unit": "min"
+      },
+      {
+        "id": "m17",
+        "type": "Music",
+        "date": "2024-12-15 23:05",
+        "title": "Get Out While You Can",
+        "subtitle": "James Bay • Chaos And The Calm",
+        "value": 4.7,
+        "unit": "min"
+      },
+      {
+        "id": "m18",
+        "type": "Music",
+        "date": "2024-12-15 23:00",
+        "title": "17",
+        "subtitle": "Kings of Leon • Only By The Night",
+        "value": 3.1,
+        "unit": "min"
+      },
+      {
+        "id": "m19",
+        "type": "Music",
+        "date": "2024-12-15 22:57",
+        "title": "Emoji of a Wave",
+        "subtitle": "John Mayer • The Search for Everything",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m20",
+        "type": "Music",
+        "date": "2024-12-15 22:57",
+        "title": "Puccini: La bohème, Act I: Che gelida manina",
+        "subtitle": "Giacomo Puccini • Pavarotti Forever",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m21",
+        "type": "Music",
+        "date": "2024-12-15 22:57",
+        "title": "Hello, Goodbye - Remastered 2009",
+        "subtitle": "The Beatles • Magical Mystery Tour",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m22",
+        "type": "Music",
+        "date": "2024-12-15 22:57",
+        "title": "Castle on the Hill",
+        "subtitle": "Ed Sheeran • ÷",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m23",
+        "type": "Music",
+        "date": "2024-12-15 22:57",
+        "title": "Sad Song - Acoustic",
+        "subtitle": "Liam Gallagher • Acoustic Sessions",
+        "value": 1.8,
+        "unit": "min"
+      },
+      {
+        "id": "m24",
+        "type": "Music",
+        "date": "2024-12-15 22:55",
+        "title": "Our Last Days",
+        "subtitle": "The Fray • Helios",
+        "value": 3.7,
+        "unit": "min"
+      },
+      {
+        "id": "m25",
+        "type": "Music",
+        "date": "2024-12-15 22:51",
+        "title": "One of My Turns",
+        "subtitle": "Pink Floyd • The Wall",
+        "value": 3.0,
+        "unit": "min"
+      },
+      {
+        "id": "m26",
+        "type": "Music",
+        "date": "2024-12-15 21:05",
+        "title": "One of My Turns",
+        "subtitle": "Pink Floyd • The Wall",
+        "value": 0.6,
+        "unit": "min"
+      },
+      {
+        "id": "m27",
+        "type": "Music",
+        "date": "2024-12-15 21:04",
+        "title": "I Will Be Found (Lost At Sea)",
+        "subtitle": "John Mayer • Paradise Valley",
+        "value": 4.0,
+        "unit": "min"
+      },
+      {
+        "id": "m28",
+        "type": "Music",
+        "date": "2024-12-15 18:59",
+        "title": "Sweet Hitch-Hiker",
+        "subtitle": "Creedence Clearwater Revival • Mardi Gras",
+        "value": 2.3,
+        "unit": "min"
+      },
+      {
+        "id": "m29",
+        "type": "Music",
+        "date": "2024-12-15 18:56",
+        "title": "If Everyone Cared",
+        "subtitle": "Nickelback • All the Right Reasons",
+        "value": 1.2,
+        "unit": "min"
+      },
+      {
+        "id": "m30",
+        "type": "Music",
+        "date": "2024-12-14 22:30",
+        "title": "L.A. Freeway",
+        "subtitle": "Guy Clark • The Essential Guy Clark",
+        "value": 5.0,
+        "unit": "min"
+      },
+      {
+        "id": "m31",
+        "type": "Music",
+        "date": "2024-12-14 22:25",
+        "title": "Dogs",
+        "subtitle": "Pink Floyd • Animals",
+        "value": 17.1,
+        "unit": "min"
+      },
+      {
+        "id": "m32",
+        "type": "Music",
+        "date": "2024-12-14 22:08",
+        "title": "I'm Alive",
+        "subtitle": "Johnny Thunder • American Animals (Original Motion Picture Soundtrack)",
+        "value": 2.9,
+        "unit": "min"
+      },
+      {
+        "id": "m33",
+        "type": "Music",
+        "date": "2024-12-14 22:05",
+        "title": "Heartless",
+        "subtitle": "Kanye West • 808s & Heartbreak",
+        "value": 3.5,
+        "unit": "min"
+      },
+      {
+        "id": "m34",
+        "type": "Music",
+        "date": "2024-12-14 22:01",
+        "title": "Living Loving Maid (She's Just a Woman) - Remaster",
+        "subtitle": "Led Zeppelin • Led Zeppelin II",
+        "value": 2.7,
+        "unit": "min"
+      },
+      {
+        "id": "m35",
+        "type": "Music",
+        "date": "2024-12-14 21:58",
+        "title": "I'll Follow The Sun - Remastered 2009",
+        "subtitle": "The Beatles • Beatles For Sale",
+        "value": 1.8,
+        "unit": "min"
+      },
+      {
+        "id": "m36",
+        "type": "Music",
+        "date": "2024-12-14 21:57",
+        "title": "Every Night",
+        "subtitle": "Imagine Dragons • Night Visions",
+        "value": 3.6,
+        "unit": "min"
+      },
+      {
+        "id": "m37",
+        "type": "Music",
+        "date": "2024-12-14 21:53",
+        "title": "Según Quién",
+        "subtitle": "Maluma • Don Juan",
+        "value": 2.4,
+        "unit": "min"
+      },
+      {
+        "id": "m38",
+        "type": "Music",
+        "date": "2024-12-13 16:10",
+        "title": "If Everyone Cared",
+        "subtitle": "Nickelback • All the Right Reasons",
+        "value": 2.4,
+        "unit": "min"
+      },
+      {
+        "id": "m39",
+        "type": "Music",
+        "date": "2024-12-13 01:23",
+        "title": "Me haces bien",
+        "subtitle": "Jorge Drexler • Sea",
+        "value": 3.1,
+        "unit": "min"
+      },
+      {
+        "id": "m40",
+        "type": "Music",
+        "date": "2024-12-13 01:16",
+        "title": "The Getting By - Abridged",
+        "subtitle": "The Killers • Pressure Machine",
+        "value": 0.9,
+        "unit": "min"
+      },
+      {
+        "id": "m41",
+        "type": "Music",
+        "date": "2024-12-10 04:09",
+        "title": "The Getting By - Abridged",
+        "subtitle": "The Killers • Pressure Machine",
+        "value": 0.7,
+        "unit": "min"
+      },
+      {
+        "id": "m42",
+        "type": "Music",
+        "date": "2024-12-10 02:16",
+        "title": "The Getting By - Abridged",
+        "subtitle": "The Killers • Pressure Machine",
+        "value": 2.2,
+        "unit": "min"
+      },
+      {
+        "id": "m43",
+        "type": "Music",
+        "date": "2024-12-10 02:11",
+        "title": "Jackie And Wilson",
+        "subtitle": "Hozier • Hozier",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m44",
+        "type": "Music",
+        "date": "2024-12-10 02:11",
+        "title": "When the Levee Breaks - Remaster",
+        "subtitle": "Led Zeppelin • Led Zeppelin IV",
+        "value": 0.7,
+        "unit": "min"
+      },
+      {
+        "id": "m45",
+        "type": "Music",
+        "date": "2024-12-10 02:10",
+        "title": "Here Comes Your Man",
+        "subtitle": "Pixies • Doolittle",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m46",
+        "type": "Music",
+        "date": "2024-12-10 02:10",
+        "title": "Bistro Fada",
+        "subtitle": "Stephane Wrembel • Midnight in Paris (Music from the Motion Picture)",
+        "value": 0.6,
+        "unit": "min"
+      },
+      {
+        "id": "m47",
+        "type": "Music",
+        "date": "2024-12-10 02:10",
+        "title": "Love Me Do - Remastered 2009",
+        "subtitle": "The Beatles • Please Please Me",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m48",
+        "type": "Music",
+        "date": "2024-12-10 02:10",
+        "title": "Modern Girls & Old Fashion Men",
+        "subtitle": "The Strokes • Modern Girls & Old Fashion Men",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m49",
+        "type": "Music",
+        "date": "2024-12-10 02:09",
+        "title": "Stray Cat Blues - 50th Anniversary Edition",
+        "subtitle": "The Rolling Stones • Beggars Banquet",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m50",
+        "type": "Music",
+        "date": "2024-12-10 02:09",
+        "title": "Winds of Change",
+        "subtitle": "Vance Joy • Dream Your Life Away",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m51",
+        "type": "Music",
+        "date": "2024-12-10 02:09",
+        "title": "The Only One",
+        "subtitle": "The Black Keys • Brothers",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m52",
+        "type": "Music",
+        "date": "2024-12-10 02:09",
+        "title": "You're Gonna Make Me Lonesome When You Go",
+        "subtitle": "Bob Dylan • Blood On The Tracks",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m53",
+        "type": "Music",
+        "date": "2024-12-10 02:09",
+        "title": "It's Only Love - Remastered 2009",
+        "subtitle": "The Beatles • Help!",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m54",
+        "type": "Music",
+        "date": "2024-12-10 02:09",
+        "title": "Why Don't You Get A Job",
+        "subtitle": "The Offspring • Americana",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m55",
+        "type": "Music",
+        "date": "2024-12-10 02:09",
+        "title": "Music To My Eyes",
+        "subtitle": "Lady Gaga • A Star Is Born Soundtrack",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m56",
+        "type": "Music",
+        "date": "2024-12-10 02:09",
+        "title": "Marooned",
+        "subtitle": "Pink Floyd • The Division Bell",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m57",
+        "type": "Music",
+        "date": "2024-12-10 02:09",
+        "title": "Torn And Frayed",
+        "subtitle": "The Rolling Stones • Exile On Main Street",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m58",
+        "type": "Music",
+        "date": "2024-12-10 02:09",
+        "title": "Famous Last Words",
+        "subtitle": "My Chemical Romance • The Black Parade",
+        "value": 0.1,
+        "unit": "min"
+      },
+      {
+        "id": "m59",
+        "type": "Music",
+        "date": "2024-12-10 02:09",
+        "title": "American Bohemian - Gatlinburg Demo",
+        "subtitle": "Houndmouth • California Voodoo",
+        "value": 2.5,
+        "unit": "min"
+      },
+      {
+        "id": "m60",
+        "type": "Music",
+        "date": "2024-12-10 02:07",
+        "title": "Burn the Damn Thing Down",
+        "subtitle": "The Black Keys • Dropout Boogie",
+        "value": 3.0,
+        "unit": "min"
+      },
+      {
+        "id": "m61",
+        "type": "Music",
+        "date": "2024-12-10 02:04",
+        "title": "The River",
+        "subtitle": "Liam Gallagher • Why Me? Why Not.",
+        "value": 0.1,
+        "unit": "min"
+      },
+      {
+        "id": "m62",
+        "type": "Music",
+        "date": "2024-12-10 02:04",
+        "title": "Ojos Color Sol (feat. Silvio Rodríguez)",
+        "subtitle": "Calle 13 • MultiViral",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m63",
+        "type": "Music",
+        "date": "2024-12-10 02:04",
+        "title": "The Continuing Story Of Bungalow Bill - Remastered 2009",
+        "subtitle": "The Beatles • The Beatles",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m64",
+        "type": "Music",
+        "date": "2024-12-10 02:04",
+        "title": "Mr. Brightside - Live From The Royal Albert Hall / 2009",
+        "subtitle": "The Killers • Live From The Royal Albert Hall",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m65",
+        "type": "Music",
+        "date": "2024-12-10 02:04",
+        "title": "Friction",
+        "subtitle": "Imagine Dragons • Smoke + Mirrors",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m66",
+        "type": "Music",
+        "date": "2024-12-10 02:04",
+        "title": "Go Your Own Way - 2004 Remaster",
+        "subtitle": "Fleetwood Mac • Rumours",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m67",
+        "type": "Music",
+        "date": "2024-12-10 02:04",
+        "title": "Stay Open",
+        "subtitle": "Maya Hawke • To Love a Boy / Stay Open",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m68",
+        "type": "Music",
+        "date": "2024-12-10 02:03",
+        "title": "Eraser",
+        "subtitle": "Ed Sheeran • ÷",
+        "value": 0.1,
+        "unit": "min"
+      },
+      {
+        "id": "m69",
+        "type": "Music",
+        "date": "2024-12-10 02:03",
+        "title": "From Me To You - Remastered 2009",
+        "subtitle": "The Beatles • Past Masters",
+        "value": 0.1,
+        "unit": "min"
+      },
+      {
+        "id": "m70",
+        "type": "Music",
+        "date": "2024-12-10 02:03",
+        "title": "Lágrimas de Mármol",
+        "subtitle": "Joaquín Sabina • Lo Niego Todo",
+        "value": 0.2,
+        "unit": "min"
+      },
+      {
+        "id": "m71",
+        "type": "Music",
+        "date": "2024-12-10 02:03",
+        "title": "Saint-Saëns: Samson et Dalila, Op. 47, Act 2: \"Mon cœur s'ouvre à ta voix\" (Dalila)",
+        "subtitle": "Camille Saint-Saëns • Pure - Maria Callas",
+        "value": 0.1,
+        "unit": "min"
+      },
+      {
+        "id": "m72",
+        "type": "Music",
+        "date": "2024-12-10 02:03",
+        "title": "Broken Bones",
+        "subtitle": "KALEO • A/B",
+        "value": 0.1,
+        "unit": "min"
+      },
+      {
+        "id": "m73",
+        "type": "Music",
+        "date": "2024-12-10 02:03",
+        "title": "By the Way",
+        "subtitle": "Red Hot Chili Peppers • By the Way",
+        "value": 2.7,
+        "unit": "min"
+      },
+      {
+        "id": "m74",
+        "type": "Music",
+        "date": "2024-12-10 02:00",
+        "title": "Crooked Smile (feat. TLC)",
+        "subtitle": "J. Cole • Born Sinner",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m75",
+        "type": "Music",
+        "date": "2024-12-10 02:00",
+        "title": "siempreestoypati",
+        "subtitle": "Ed Maverick • Transiciones",
+        "value": 1.5,
+        "unit": "min"
+      },
+      {
+        "id": "m76",
+        "type": "Music",
+        "date": "2024-12-10 01:59",
+        "title": "Otherside (feat. Fences) [Ryan Lewis Remix]",
+        "subtitle": "Macklemore & Ryan Lewis • VS. Redux",
+        "value": 3.6,
+        "unit": "min"
+      },
+      {
+        "id": "m77",
+        "type": "Music",
+        "date": "2024-12-10 01:55",
+        "title": "siempreestoypati",
+        "subtitle": "Ed Maverick • Transiciones",
+        "value": 0.0,
+        "unit": "min"
+      },
+      {
+        "id": "m78",
+        "type": "Music",
+        "date": "2024-12-10 01:55",
+        "title": "Otherside (feat. Fences) [Ryan Lewis Remix]",
+        "subtitle": "Macklemore & Ryan Lewis • VS. Redux",
+        "value": 0.6,
+        "unit": "min"
+      },
+      {
+        "id": "m79",
+        "type": "Music",
+        "date": "2024-12-10 01:54",
+        "title": "Headlights",
+        "subtitle": "Eminem • The Marshall Mathers LP2",
+        "value": 5.7,
+        "unit": "min"
+      }
+    ]
+  },
+  "spending": {
+    "transactions": 10267,
+    "total": 48966073.38,
+    "categories": [
+      {
+        "name": "online_shopping",
+        "count": 2596
+      },
+      {
+        "name": "travel",
+        "count": 2419
+      },
+      {
+        "name": "entertainment",
+        "count": 2388
+      },
+      {
+        "name": "fitness_and_medical",
+        "count": 2067
+      },
+      {
+        "name": "Uncategorized",
+        "count": 797
+      }
+    ],
+    "yearly": [
+      {
+        "year": 2022,
+        "count": 3303
+      },
+      {
+        "year": 2023,
+        "count": 4799
+      },
+      {
+        "year": 2024,
+        "count": 1315
+      }
+    ],
+    "eventsRecent": [
+      {
+        "id": "s0",
+        "type": "Spending",
+        "date": "2024-04-16 11:16",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Dey-Manda Pvt Ltd",
+        "value": 5729.54,
+        "unit": "INR"
+      },
+      {
+        "id": "s1",
+        "type": "Spending",
+        "date": "2024-04-16 11:16",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Dey-Manda Pvt Ltd",
+        "value": 5729.54,
+        "unit": "INR"
+      },
+      {
+        "id": "s2",
+        "type": "Spending",
+        "date": "2024-04-16 11:16",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Dey-Manda Pvt Ltd",
+        "value": 5729.54,
+        "unit": "INR"
+      },
+      {
+        "id": "s3",
+        "type": "Spending",
+        "date": "2024-04-16 11:16",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Dey-Manda Pvt Ltd",
+        "value": 5729.54,
+        "unit": "INR"
+      },
+      {
+        "id": "s4",
+        "type": "Spending",
+        "date": "2024-04-16 11:16",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Dey-Manda Pvt Ltd",
+        "value": 5729.54,
+        "unit": "INR"
+      },
+      {
+        "id": "s5",
+        "type": "Spending",
+        "date": "2024-04-16 11:16",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Dey-Manda Pvt Ltd",
+        "value": 5729.54,
+        "unit": "INR"
+      },
+      {
+        "id": "s6",
+        "type": "Spending",
+        "date": "2024-04-16 11:16",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Dey-Manda Pvt Ltd",
+        "value": 5729.54,
+        "unit": "INR"
+      },
+      {
+        "id": "s7",
+        "type": "Spending",
+        "date": "2024-04-16 11:16",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Dey-Manda Pvt Ltd",
+        "value": 5729.54,
+        "unit": "INR"
+      },
+      {
+        "id": "s8",
+        "type": "Spending",
+        "date": "2024-04-15 03:26",
+        "title": "Travel",
+        "subtitle": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+        "value": 8761.71,
+        "unit": "INR"
+      },
+      {
+        "id": "s9",
+        "type": "Spending",
+        "date": "2024-04-15 03:26",
+        "title": "Travel",
+        "subtitle": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+        "value": 8761.71,
+        "unit": "INR"
+      },
+      {
+        "id": "s10",
+        "type": "Spending",
+        "date": "2024-04-15 03:26",
+        "title": "Travel",
+        "subtitle": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+        "value": 8761.71,
+        "unit": "INR"
+      },
+      {
+        "id": "s11",
+        "type": "Spending",
+        "date": "2024-04-15 03:26",
+        "title": "Travel",
+        "subtitle": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+        "value": 8761.71,
+        "unit": "INR"
+      },
+      {
+        "id": "s12",
+        "type": "Spending",
+        "date": "2024-04-15 03:26",
+        "title": "Travel",
+        "subtitle": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+        "value": 8761.71,
+        "unit": "INR"
+      },
+      {
+        "id": "s13",
+        "type": "Spending",
+        "date": "2024-04-15 03:26",
+        "title": "Travel",
+        "subtitle": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+        "value": 8761.71,
+        "unit": "INR"
+      },
+      {
+        "id": "s14",
+        "type": "Spending",
+        "date": "2024-04-14 19:31",
+        "title": "Entertainment",
+        "subtitle": "fraud_Cheema Group Pvt Ltd",
+        "value": 9765.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s15",
+        "type": "Spending",
+        "date": "2024-04-14 19:31",
+        "title": "Entertainment",
+        "subtitle": "fraud_Cheema Group Pvt Ltd",
+        "value": 9765.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s16",
+        "type": "Spending",
+        "date": "2024-04-14 19:31",
+        "title": "Entertainment",
+        "subtitle": "fraud_Cheema Group Pvt Ltd",
+        "value": 9765.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s17",
+        "type": "Spending",
+        "date": "2024-04-14 19:31",
+        "title": "Entertainment",
+        "subtitle": "fraud_Cheema Group Pvt Ltd",
+        "value": 9765.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s18",
+        "type": "Spending",
+        "date": "2024-04-14 19:31",
+        "title": "Entertainment",
+        "subtitle": "fraud_Cheema Group Pvt Ltd",
+        "value": 9765.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s19",
+        "type": "Spending",
+        "date": "2024-04-14 19:31",
+        "title": "Entertainment",
+        "subtitle": "fraud_Cheema Group Pvt Ltd",
+        "value": 9765.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s20",
+        "type": "Spending",
+        "date": "2024-04-14 19:31",
+        "title": "Entertainment",
+        "subtitle": "fraud_Cheema Group Pvt Ltd",
+        "value": 9765.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s21",
+        "type": "Spending",
+        "date": "2024-04-14 12:52",
+        "title": "Entertainment",
+        "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+        "value": 4420.76,
+        "unit": "INR"
+      },
+      {
+        "id": "s22",
+        "type": "Spending",
+        "date": "2024-04-14 12:52",
+        "title": "Entertainment",
+        "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+        "value": 4420.76,
+        "unit": "INR"
+      },
+      {
+        "id": "s23",
+        "type": "Spending",
+        "date": "2024-04-14 12:52",
+        "title": "Entertainment",
+        "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+        "value": 4420.76,
+        "unit": "INR"
+      },
+      {
+        "id": "s24",
+        "type": "Spending",
+        "date": "2024-04-14 12:52",
+        "title": "Entertainment",
+        "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+        "value": 4420.76,
+        "unit": "INR"
+      },
+      {
+        "id": "s25",
+        "type": "Spending",
+        "date": "2024-04-14 12:52",
+        "title": "Entertainment",
+        "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+        "value": 4420.76,
+        "unit": "INR"
+      },
+      {
+        "id": "s26",
+        "type": "Spending",
+        "date": "2024-04-14 12:52",
+        "title": "Entertainment",
+        "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+        "value": 4420.76,
+        "unit": "INR"
+      },
+      {
+        "id": "s27",
+        "type": "Spending",
+        "date": "2024-04-14 12:52",
+        "title": "Entertainment",
+        "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+        "value": 4420.76,
+        "unit": "INR"
+      },
+      {
+        "id": "s28",
+        "type": "Spending",
+        "date": "2024-04-14 12:52",
+        "title": "Entertainment",
+        "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+        "value": 4420.76,
+        "unit": "INR"
+      },
+      {
+        "id": "s29",
+        "type": "Spending",
+        "date": "2024-04-13 20:29",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+        "value": 5766.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s30",
+        "type": "Spending",
+        "date": "2024-04-13 20:29",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+        "value": 5766.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s31",
+        "type": "Spending",
+        "date": "2024-04-13 20:29",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+        "value": 5766.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s32",
+        "type": "Spending",
+        "date": "2024-04-13 20:29",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+        "value": 5766.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s33",
+        "type": "Spending",
+        "date": "2024-04-13 20:29",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+        "value": 5766.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s34",
+        "type": "Spending",
+        "date": "2024-04-13 20:29",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+        "value": 5766.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s35",
+        "type": "Spending",
+        "date": "2024-04-13 20:29",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+        "value": 5766.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s36",
+        "type": "Spending",
+        "date": "2024-04-13 20:29",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+        "value": 5766.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s37",
+        "type": "Spending",
+        "date": "2024-04-13 20:29",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+        "value": 5766.94,
+        "unit": "INR"
+      },
+      {
+        "id": "s38",
+        "type": "Spending",
+        "date": "2024-04-12 12:22",
+        "title": "Entertainment",
+        "subtitle": "fraud_Mall Ltd Pvt Ltd",
+        "value": 3226.34,
+        "unit": "INR"
+      },
+      {
+        "id": "s39",
+        "type": "Spending",
+        "date": "2024-04-12 12:22",
+        "title": "Entertainment",
+        "subtitle": "fraud_Mall Ltd Pvt Ltd",
+        "value": 3226.34,
+        "unit": "INR"
+      },
+      {
+        "id": "s40",
+        "type": "Spending",
+        "date": "2024-04-12 12:22",
+        "title": "Entertainment",
+        "subtitle": "fraud_Mall Ltd Pvt Ltd",
+        "value": 3226.34,
+        "unit": "INR"
+      },
+      {
+        "id": "s41",
+        "type": "Spending",
+        "date": "2024-04-12 12:22",
+        "title": "Entertainment",
+        "subtitle": "fraud_Mall Ltd Pvt Ltd",
+        "value": 3226.34,
+        "unit": "INR"
+      },
+      {
+        "id": "s42",
+        "type": "Spending",
+        "date": "2024-04-12 12:22",
+        "title": "Entertainment",
+        "subtitle": "fraud_Mall Ltd Pvt Ltd",
+        "value": 3226.34,
+        "unit": "INR"
+      },
+      {
+        "id": "s43",
+        "type": "Spending",
+        "date": "2024-04-12 12:22",
+        "title": "Entertainment",
+        "subtitle": "fraud_Mall Ltd Pvt Ltd",
+        "value": 3226.34,
+        "unit": "INR"
+      },
+      {
+        "id": "s44",
+        "type": "Spending",
+        "date": "2024-04-12 12:22",
+        "title": "Entertainment",
+        "subtitle": "fraud_Mall Ltd Pvt Ltd",
+        "value": 3226.34,
+        "unit": "INR"
+      },
+      {
+        "id": "s45",
+        "type": "Spending",
+        "date": "2024-04-12 12:22",
+        "title": "Entertainment",
+        "subtitle": "fraud_Mall Ltd Pvt Ltd",
+        "value": 3226.34,
+        "unit": "INR"
+      },
+      {
+        "id": "s46",
+        "type": "Spending",
+        "date": "2024-04-12 01:30",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Bhatnagar-Gulati Pvt Ltd",
+        "value": 1569.53,
+        "unit": "INR"
+      },
+      {
+        "id": "s47",
+        "type": "Spending",
+        "date": "2024-04-12 01:30",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Bhatnagar-Gulati Pvt Ltd",
+        "value": 1569.53,
+        "unit": "INR"
+      },
+      {
+        "id": "s48",
+        "type": "Spending",
+        "date": "2024-04-12 01:30",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Bhatnagar-Gulati Pvt Ltd",
+        "value": 1569.53,
+        "unit": "INR"
+      },
+      {
+        "id": "s49",
+        "type": "Spending",
+        "date": "2024-04-12 01:30",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Bhatnagar-Gulati Pvt Ltd",
+        "value": 1569.53,
+        "unit": "INR"
+      },
+      {
+        "id": "s50",
+        "type": "Spending",
+        "date": "2024-04-11 20:55",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Kapadia-Seth Pvt Ltd",
+        "value": 3393.41,
+        "unit": "INR"
+      },
+      {
+        "id": "s51",
+        "type": "Spending",
+        "date": "2024-04-11 20:55",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Kapadia-Seth Pvt Ltd",
+        "value": 3393.41,
+        "unit": "INR"
+      },
+      {
+        "id": "s52",
+        "type": "Spending",
+        "date": "2024-04-11 20:55",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Kapadia-Seth Pvt Ltd",
+        "value": 3393.41,
+        "unit": "INR"
+      },
+      {
+        "id": "s53",
+        "type": "Spending",
+        "date": "2024-04-11 20:55",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Kapadia-Seth Pvt Ltd",
+        "value": 3393.41,
+        "unit": "INR"
+      },
+      {
+        "id": "s54",
+        "type": "Spending",
+        "date": "2024-04-11 20:55",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Kapadia-Seth Pvt Ltd",
+        "value": 3393.41,
+        "unit": "INR"
+      },
+      {
+        "id": "s55",
+        "type": "Spending",
+        "date": "2024-04-11 20:55",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Kapadia-Seth Pvt Ltd",
+        "value": 3393.41,
+        "unit": "INR"
+      },
+      {
+        "id": "s56",
+        "type": "Spending",
+        "date": "2024-04-11 20:55",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Kapadia-Seth Pvt Ltd",
+        "value": 3393.41,
+        "unit": "INR"
+      },
+      {
+        "id": "s57",
+        "type": "Spending",
+        "date": "2024-04-11 20:55",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Kapadia-Seth Pvt Ltd",
+        "value": 3393.41,
+        "unit": "INR"
+      },
+      {
+        "id": "s58",
+        "type": "Spending",
+        "date": "2024-04-11 20:36",
+        "title": "Travel",
+        "subtitle": "fraud_Manda, Seth and Dixit Pvt Ltd",
+        "value": 5676.95,
+        "unit": "INR"
+      },
+      {
+        "id": "s59",
+        "type": "Spending",
+        "date": "2024-04-11 20:36",
+        "title": "Travel",
+        "subtitle": "fraud_Manda, Seth and Dixit Pvt Ltd",
+        "value": 5676.95,
+        "unit": "INR"
+      },
+      {
+        "id": "s60",
+        "type": "Spending",
+        "date": "2024-04-11 20:36",
+        "title": "Travel",
+        "subtitle": "fraud_Manda, Seth and Dixit Pvt Ltd",
+        "value": 5676.95,
+        "unit": "INR"
+      },
+      {
+        "id": "s61",
+        "type": "Spending",
+        "date": "2024-04-11 20:36",
+        "title": "Travel",
+        "subtitle": "fraud_Manda, Seth and Dixit Pvt Ltd",
+        "value": 5676.95,
+        "unit": "INR"
+      },
+      {
+        "id": "s62",
+        "type": "Spending",
+        "date": "2024-04-11 16:55",
+        "title": "Entertainment",
+        "subtitle": "fraud_Chaudry and Sons Pvt Ltd",
+        "value": 9765.19,
+        "unit": "INR"
+      },
+      {
+        "id": "s63",
+        "type": "Spending",
+        "date": "2024-04-11 16:55",
+        "title": "Entertainment",
+        "subtitle": "fraud_Chaudry and Sons Pvt Ltd",
+        "value": 9765.19,
+        "unit": "INR"
+      },
+      {
+        "id": "s64",
+        "type": "Spending",
+        "date": "2024-04-11 16:55",
+        "title": "Entertainment",
+        "subtitle": "fraud_Chaudry and Sons Pvt Ltd",
+        "value": 9765.19,
+        "unit": "INR"
+      },
+      {
+        "id": "s65",
+        "type": "Spending",
+        "date": "2024-04-11 16:55",
+        "title": "Entertainment",
+        "subtitle": "fraud_Chaudry and Sons Pvt Ltd",
+        "value": 9765.19,
+        "unit": "INR"
+      },
+      {
+        "id": "s66",
+        "type": "Spending",
+        "date": "2024-04-11 16:55",
+        "title": "Entertainment",
+        "subtitle": "fraud_Chaudry and Sons Pvt Ltd",
+        "value": 9765.19,
+        "unit": "INR"
+      },
+      {
+        "id": "s67",
+        "type": "Spending",
+        "date": "2024-04-11 14:04",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Chada-Koshy Pvt Ltd",
+        "value": 2831.87,
+        "unit": "INR"
+      },
+      {
+        "id": "s68",
+        "type": "Spending",
+        "date": "2024-04-11 14:04",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Chada-Koshy Pvt Ltd",
+        "value": 2831.87,
+        "unit": "INR"
+      },
+      {
+        "id": "s69",
+        "type": "Spending",
+        "date": "2024-04-11 14:04",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Chada-Koshy Pvt Ltd",
+        "value": 2831.87,
+        "unit": "INR"
+      },
+      {
+        "id": "s70",
+        "type": "Spending",
+        "date": "2024-04-11 14:04",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Chada-Koshy Pvt Ltd",
+        "value": 2831.87,
+        "unit": "INR"
+      },
+      {
+        "id": "s71",
+        "type": "Spending",
+        "date": "2024-04-11 14:04",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Chada-Koshy Pvt Ltd",
+        "value": 2831.87,
+        "unit": "INR"
+      },
+      {
+        "id": "s72",
+        "type": "Spending",
+        "date": "2024-04-11 14:04",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Chada-Koshy Pvt Ltd",
+        "value": 2831.87,
+        "unit": "INR"
+      },
+      {
+        "id": "s73",
+        "type": "Spending",
+        "date": "2024-04-11 14:04",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Chada-Koshy Pvt Ltd",
+        "value": 2831.87,
+        "unit": "INR"
+      },
+      {
+        "id": "s74",
+        "type": "Spending",
+        "date": "2024-04-11 14:04",
+        "title": "Online Shopping",
+        "subtitle": "fraud_Chada-Koshy Pvt Ltd",
+        "value": 2831.87,
+        "unit": "INR"
+      },
+      {
+        "id": "s75",
+        "type": "Spending",
+        "date": "2024-04-10 17:29",
+        "title": "Travel",
+        "subtitle": "Transaction",
+        "value": 5134.25,
+        "unit": "INR"
+      },
+      {
+        "id": "s76",
+        "type": "Spending",
+        "date": "2024-04-10 04:21",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Mand and Sons Pvt Ltd",
+        "value": 4053.92,
+        "unit": "INR"
+      },
+      {
+        "id": "s77",
+        "type": "Spending",
+        "date": "2024-04-10 04:21",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Mand and Sons Pvt Ltd",
+        "value": 4053.92,
+        "unit": "INR"
+      },
+      {
+        "id": "s78",
+        "type": "Spending",
+        "date": "2024-04-10 04:21",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Mand and Sons Pvt Ltd",
+        "value": 4053.92,
+        "unit": "INR"
+      },
+      {
+        "id": "s79",
+        "type": "Spending",
+        "date": "2024-04-10 04:21",
+        "title": "Fitness And Medical",
+        "subtitle": "fraud_Mand and Sons Pvt Ltd",
+        "value": 4053.92,
+        "unit": "INR"
+      }
+    ]
+  },
+  "daily": {
+    "transactions": 2461,
+    "expenseTotal": 1957390.53,
+    "categories": [
+      {
+        "name": "Food",
+        "count": 907
+      },
+      {
+        "name": "Transportation",
+        "count": 307
+      },
+      {
+        "name": "Household",
+        "count": 176
+      },
+      {
+        "name": "subscription",
+        "count": 143
+      },
+      {
+        "name": "Other",
+        "count": 126
+      },
+      {
+        "name": "Investment",
+        "count": 103
+      },
+      {
+        "name": "Health",
+        "count": 94
+      },
+      {
+        "name": "Family",
+        "count": 71
+      },
+      {
+        "name": "Apparel",
+        "count": 47
+      },
+      {
+        "name": "Recurring Deposit",
+        "count": 47
+      },
+      {
+        "name": "Money transfer",
+        "count": 43
+      },
+      {
+        "name": "Salary",
+        "count": 43
+      }
+    ],
+    "yearly": [
+      {
+        "year": 2015,
+        "count": 182
+      },
+      {
+        "year": 2016,
+        "count": 173
+      },
+      {
+        "year": 2017,
+        "count": 568
+      },
+      {
+        "year": 2018,
+        "count": 380
+      }
+    ],
+    "eventsRecent": [
+      {
+        "id": "d0",
+        "type": "Daily Life",
+        "date": "2018-09-20 12:04",
+        "title": "Transportation",
+        "subtitle": "Train",
+        "value": 30.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d1",
+        "type": "Daily Life",
+        "date": "2018-09-20 12:03",
+        "title": "Food",
+        "subtitle": "snacks",
+        "value": 60.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d2",
+        "type": "Daily Life",
+        "date": "2018-09-17 23:41",
+        "title": "subscription",
+        "subtitle": "Mobile Service Provider",
+        "value": 19.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d3",
+        "type": "Daily Life",
+        "date": "2018-09-16 17:15",
+        "title": "Festivals",
+        "subtitle": "Ganesh Pujan",
+        "value": 251.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d4",
+        "type": "Daily Life",
+        "date": "2018-09-15 06:34",
+        "title": "subscription",
+        "subtitle": "Tata Sky",
+        "value": 200.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d5",
+        "type": "Daily Life",
+        "date": "2018-09-14 05:39",
+        "title": "Transportation",
+        "subtitle": "auto",
+        "value": 50.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d6",
+        "type": "Daily Life",
+        "date": "2018-09-13 21:35",
+        "title": "Transportation",
+        "subtitle": "Train",
+        "value": 40.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d7",
+        "type": "Daily Life",
+        "date": "2018-09-13 21:01",
+        "title": "Other",
+        "subtitle": "HBR 2 Months subscription",
+        "value": 83.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d8",
+        "type": "Daily Life",
+        "date": "2018-09-13 21:01",
+        "title": "Food",
+        "subtitle": "Grocery",
+        "value": 46.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d9",
+        "type": "Daily Life",
+        "date": "2018-08-31 15:12",
+        "title": "Gift",
+        "subtitle": "farewell contribution",
+        "value": 118.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d10",
+        "type": "Daily Life",
+        "date": "2018-08-31 15:12",
+        "title": "Family",
+        "subtitle": "Pocket money",
+        "value": 1000.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d11",
+        "type": "Daily Life",
+        "date": "2018-08-31 10:01",
+        "title": "Food",
+        "subtitle": "Dinner",
+        "value": 510.85,
+        "unit": "INR"
+      },
+      {
+        "id": "d12",
+        "type": "Daily Life",
+        "date": "2018-08-31 09:27",
+        "title": "Salary",
+        "subtitle": "From workplace ",
+        "value": 70255.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d13",
+        "type": "Daily Life",
+        "date": "2018-08-31 09:26",
+        "title": "Food",
+        "subtitle": "Milk",
+        "value": 36.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d14",
+        "type": "Daily Life",
+        "date": "2018-08-30 21:10",
+        "title": "Food",
+        "subtitle": "Sweets",
+        "value": 78.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d15",
+        "type": "Daily Life",
+        "date": "2018-08-30 21:09",
+        "title": "Household",
+        "subtitle": "Kirana",
+        "value": 343.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d16",
+        "type": "Daily Life",
+        "date": "2018-08-29 12:21",
+        "title": "Food",
+        "subtitle": "Grocery",
+        "value": 27.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d17",
+        "type": "Daily Life",
+        "date": "2018-08-29 12:21",
+        "title": "Food",
+        "subtitle": "Ice cream",
+        "value": 15.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d18",
+        "type": "Daily Life",
+        "date": "2018-08-29 12:11",
+        "title": "Food",
+        "subtitle": "Milk",
+        "value": 36.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d19",
+        "type": "Daily Life",
+        "date": "2018-08-28 21:04",
+        "title": "Dividend earned on Shares",
+        "subtitle": "Astral Stocks",
+        "value": 6.75,
+        "unit": "INR"
+      },
+      {
+        "id": "d20",
+        "type": "Daily Life",
+        "date": "2018-08-28 19:16",
+        "title": "Dividend earned on Shares",
+        "subtitle": "Reliance Stocks",
+        "value": 18.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d21",
+        "type": "Daily Life",
+        "date": "2018-08-27 21:30",
+        "title": "Food",
+        "subtitle": "curd",
+        "value": 20.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d22",
+        "type": "Daily Life",
+        "date": "2018-08-27 10:52",
+        "title": "Food",
+        "subtitle": "breakfast",
+        "value": 60.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d23",
+        "type": "Daily Life",
+        "date": "2018-08-27 10:52",
+        "title": "Food",
+        "subtitle": "Biscuits",
+        "value": 45.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d24",
+        "type": "Daily Life",
+        "date": "2018-08-27 10:52",
+        "title": "Food",
+        "subtitle": "Milk",
+        "value": 36.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d25",
+        "type": "Daily Life",
+        "date": "2018-08-26 21:04",
+        "title": "Interest",
+        "subtitle": "interest paid",
+        "value": 30.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d26",
+        "type": "Daily Life",
+        "date": "2018-08-25 21:04",
+        "title": "Apparel",
+        "subtitle": "Laundry",
+        "value": 91.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d27",
+        "type": "Daily Life",
+        "date": "2018-08-24 22:13",
+        "title": "Food",
+        "subtitle": "Dinner",
+        "value": 1120.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d28",
+        "type": "Daily Life",
+        "date": "2018-08-24 22:12",
+        "title": "Other",
+        "subtitle": "From Family",
+        "value": 1000.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d29",
+        "type": "Daily Life",
+        "date": "2018-08-24 20:20",
+        "title": "Food",
+        "subtitle": "Rajgira ladu",
+        "value": 20.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d30",
+        "type": "Daily Life",
+        "date": "2018-08-24 20:17",
+        "title": "Food",
+        "subtitle": "Milk",
+        "value": 36.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d31",
+        "type": "Daily Life",
+        "date": "2018-08-24 13:34",
+        "title": "Festivals",
+        "subtitle": "Navratri",
+        "value": 1000.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d32",
+        "type": "Daily Life",
+        "date": "2018-08-23 21:29",
+        "title": "Transportation",
+        "subtitle": "train",
+        "value": 1305.4,
+        "unit": "INR"
+      },
+      {
+        "id": "d33",
+        "type": "Daily Life",
+        "date": "2018-08-23 21:29",
+        "title": "Transportation",
+        "subtitle": "train",
+        "value": 1205.4,
+        "unit": "INR"
+      },
+      {
+        "id": "d34",
+        "type": "Daily Life",
+        "date": "2018-08-23 19:55",
+        "title": "Food",
+        "subtitle": "Lunch",
+        "value": 60.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d35",
+        "type": "Daily Life",
+        "date": "2018-08-22 22:31",
+        "title": "Food",
+        "subtitle": "Milk",
+        "value": 37.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d36",
+        "type": "Daily Life",
+        "date": "2018-08-21 16:15",
+        "title": "Food",
+        "subtitle": "Tea",
+        "value": 12.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d37",
+        "type": "Daily Life",
+        "date": "2018-08-21 16:15",
+        "title": "Food",
+        "subtitle": "Milk",
+        "value": 36.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d38",
+        "type": "Daily Life",
+        "date": "2018-08-17 20:06",
+        "title": "Food",
+        "subtitle": "curd",
+        "value": 20.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d39",
+        "type": "Daily Life",
+        "date": "2018-08-17 19:21",
+        "title": "Food",
+        "subtitle": "Milk",
+        "value": 36.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d40",
+        "type": "Daily Life",
+        "date": "2018-08-17 12:40",
+        "title": "Dividend earned on Shares",
+        "subtitle": "Pidilite Stocks",
+        "value": 22.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d41",
+        "type": "Daily Life",
+        "date": "2018-08-16 19:08",
+        "title": "subscription",
+        "subtitle": "Tata Sky",
+        "value": 157.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d42",
+        "type": "Daily Life",
+        "date": "2018-08-15 09:44",
+        "title": "Food",
+        "subtitle": "Sweets",
+        "value": 290.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d43",
+        "type": "Daily Life",
+        "date": "2018-08-15 09:11",
+        "title": "Food",
+        "subtitle": "flour mill",
+        "value": 216.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d44",
+        "type": "Daily Life",
+        "date": "2018-08-14 10:59",
+        "title": "Dividend earned on Shares",
+        "subtitle": "ITC Stocks",
+        "value": 124.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d45",
+        "type": "Daily Life",
+        "date": "2018-08-14 10:04",
+        "title": "Family",
+        "subtitle": "Pocket money",
+        "value": 30.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d46",
+        "type": "Daily Life",
+        "date": "2018-08-14 09:51",
+        "title": "Food",
+        "subtitle": "snacks",
+        "value": 32.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d47",
+        "type": "Daily Life",
+        "date": "2018-08-14 09:50",
+        "title": "Household",
+        "subtitle": "Kirana",
+        "value": 160.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d48",
+        "type": "Daily Life",
+        "date": "2018-08-14 09:48",
+        "title": "Apparel",
+        "subtitle": "Laundry",
+        "value": 56.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d49",
+        "type": "Daily Life",
+        "date": "2018-08-14 09:46",
+        "title": "Food",
+        "subtitle": "Ice cream",
+        "value": 115.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d50",
+        "type": "Daily Life",
+        "date": "2018-08-13 18:37",
+        "title": "Household",
+        "subtitle": "Appliances",
+        "value": 100.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d51",
+        "type": "Daily Life",
+        "date": "2018-08-13 18:36",
+        "title": "Household",
+        "subtitle": "home decor",
+        "value": 220.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d52",
+        "type": "Daily Life",
+        "date": "2018-08-13 18:35",
+        "title": "Food",
+        "subtitle": "Grocery",
+        "value": 45.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d53",
+        "type": "Daily Life",
+        "date": "2018-08-13 18:33",
+        "title": "Household",
+        "subtitle": "Kirana",
+        "value": 594.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d54",
+        "type": "Daily Life",
+        "date": "2018-08-13 10:04",
+        "title": "Food",
+        "subtitle": "Ice cream",
+        "value": 10.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d55",
+        "type": "Daily Life",
+        "date": "2018-08-13 10:04",
+        "title": "Food",
+        "subtitle": "Ice cream",
+        "value": 20.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d56",
+        "type": "Daily Life",
+        "date": "2018-07-31 21:52",
+        "title": "Apparel",
+        "subtitle": "Laundry",
+        "value": 91.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d57",
+        "type": "Daily Life",
+        "date": "2018-07-31 18:01",
+        "title": "Money transfer",
+        "subtitle": "Home",
+        "value": 30000.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d58",
+        "type": "Daily Life",
+        "date": "2018-07-31 13:45",
+        "title": "maid",
+        "subtitle": "July salary",
+        "value": 2000.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d59",
+        "type": "Daily Life",
+        "date": "2018-07-31 13:44",
+        "title": "Food",
+        "subtitle": "chocolate",
+        "value": 10.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d60",
+        "type": "Daily Life",
+        "date": "2018-07-31 09:05",
+        "title": "Salary",
+        "subtitle": "From workplace ",
+        "value": 70255.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d61",
+        "type": "Daily Life",
+        "date": "2018-07-30 18:44",
+        "title": "Health",
+        "subtitle": "Medicine",
+        "value": 100.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d62",
+        "type": "Daily Life",
+        "date": "2018-07-30 13:19",
+        "title": "Health",
+        "subtitle": "Medicine",
+        "value": 132.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d63",
+        "type": "Daily Life",
+        "date": "2018-07-30 13:19",
+        "title": "Food",
+        "subtitle": "Lunch",
+        "value": 212.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d64",
+        "type": "Daily Life",
+        "date": "2018-07-30 11:49",
+        "title": "Food",
+        "subtitle": "breakfast",
+        "value": 25.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d65",
+        "type": "Daily Life",
+        "date": "2018-07-29 19:29",
+        "title": "Food",
+        "subtitle": "Eating out",
+        "value": 260.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d66",
+        "type": "Daily Life",
+        "date": "2018-07-29 15:52",
+        "title": "Transportation",
+        "subtitle": "auto",
+        "value": 50.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d67",
+        "type": "Daily Life",
+        "date": "2018-07-29 11:39",
+        "title": "Transportation",
+        "subtitle": "auto",
+        "value": 15.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d68",
+        "type": "Daily Life",
+        "date": "2018-07-29 11:38",
+        "title": "Transportation",
+        "subtitle": "Train",
+        "value": 40.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d69",
+        "type": "Daily Life",
+        "date": "2018-07-29 10:12",
+        "title": "Food",
+        "subtitle": "breakfast",
+        "value": 105.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d70",
+        "type": "Daily Life",
+        "date": "2018-07-28 23:42",
+        "title": "Culture",
+        "subtitle": "Movie",
+        "value": 481.36,
+        "unit": "INR"
+      },
+      {
+        "id": "d71",
+        "type": "Daily Life",
+        "date": "2018-07-28 23:42",
+        "title": "Family",
+        "subtitle": "Pocket money",
+        "value": 200.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d72",
+        "type": "Daily Life",
+        "date": "2018-07-28 21:30",
+        "title": "Food",
+        "subtitle": "vegetables",
+        "value": 195.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d73",
+        "type": "Daily Life",
+        "date": "2018-07-28 20:45",
+        "title": "Household",
+        "subtitle": "Kirana",
+        "value": 3750.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d74",
+        "type": "Daily Life",
+        "date": "2018-07-27 18:39",
+        "title": "Other",
+        "subtitle": "Demat account charges",
+        "value": 826.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d75",
+        "type": "Daily Life",
+        "date": "2018-07-26 23:06",
+        "title": "Food",
+        "subtitle": "Biscuits",
+        "value": 40.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d76",
+        "type": "Daily Life",
+        "date": "2018-07-26 13:44",
+        "title": "Tax refund",
+        "subtitle": "Daily transaction",
+        "value": 6780.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d77",
+        "type": "Daily Life",
+        "date": "2018-07-23 12:49",
+        "title": "subscription",
+        "subtitle": "Tata Sky",
+        "value": 154.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d78",
+        "type": "Daily Life",
+        "date": "2018-07-23 12:33",
+        "title": "Food",
+        "subtitle": "breakfast",
+        "value": 100.0,
+        "unit": "INR"
+      },
+      {
+        "id": "d79",
+        "type": "Daily Life",
+        "date": "2018-07-21 19:02",
+        "title": "Household",
+        "subtitle": "Kirana",
+        "value": 368.0,
+        "unit": "INR"
+      }
+    ]
+  },
+  "trend": [
+    {
+      "year": 2013,
+      "music": 185,
+      "spending": 0,
+      "daily": 0
+    },
+    {
+      "year": 2014,
+      "music": 23,
+      "spending": 0,
+      "daily": 0
+    },
+    {
+      "year": 2015,
+      "music": 2809,
+      "spending": 0,
+      "daily": 182
+    },
+    {
+      "year": 2016,
+      "music": 6413,
+      "spending": 0,
+      "daily": 173
+    },
+    {
+      "year": 2017,
+      "music": 26320,
+      "spending": 0,
+      "daily": 568
+    },
+    {
+      "year": 2018,
+      "music": 14817,
+      "spending": 0,
+      "daily": 380
+    },
+    {
+      "year": 2019,
+      "music": 14927,
+      "spending": 0,
+      "daily": 0
+    },
+    {
+      "year": 2020,
+      "music": 24280,
+      "spending": 0,
+      "daily": 0
+    },
+    {
+      "year": 2021,
+      "music": 22991,
+      "spending": 0,
+      "daily": 0
+    },
+    {
+      "year": 2022,
+      "music": 16202,
+      "spending": 3303,
+      "daily": 0
+    },
+    {
+      "year": 2023,
+      "music": 11023,
+      "spending": 4799,
+      "daily": 0
+    },
+    {
+      "year": 2024,
+      "music": 9870,
+      "spending": 1315,
+      "daily": 0
+    }
+  ],
+  "allEvents": [
+    {
+      "id": "m0",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "God Only Knows - Mono",
+      "subtitle": "The Beach Boys • Pet Sounds",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m1",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "I Don't Trust Myself (With Loving You)",
+      "subtitle": "John Mayer • Continuum",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m2",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "Stop This Train - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "subtitle": "John Mayer • Where the Light Is: John Mayer Live In Los Angeles",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m3",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "Magical Mystery Tour - Remastered 2009",
+      "subtitle": "The Beatles • Magical Mystery Tour",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m4",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "On The Way Home",
+      "subtitle": "John Mayer • Paradise Valley",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m5",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "Wild Horses - 2009 Mix",
+      "subtitle": "The Rolling Stones • Sticky Fingers",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m6",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "Eight Line Poem - 2015 Remaster",
+      "subtitle": "David Bowie • Hunky Dory",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m7",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "I'm the Only Hell My Mama Ever Raised",
+      "subtitle": "Willie Nelson • First Rose of Spring",
+      "value": 0.1,
+      "unit": "min"
+    },
+    {
+      "id": "m8",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "Who Cares",
+      "subtitle": "Paul McCartney • Egypt Station",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m9",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "Love Me Tender - From the 20th Century-Fox CinemaScope Production, \"Love Me Tender\"",
+      "subtitle": "Elvis Presley • Elvis' Golden Records",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m10",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "Closer",
+      "subtitle": "The Chainsmokers • Closer",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m11",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "Black Country Woman - Remaster",
+      "subtitle": "Led Zeppelin • Physical Graffiti",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m12",
+      "type": "Music",
+      "date": "2024-12-15 23:06",
+      "title": "Color Esperanza",
+      "subtitle": "Diego Torres • Mis Favoritas",
+      "value": 0.2,
+      "unit": "min"
+    },
+    {
+      "id": "m13",
+      "type": "Music",
+      "date": "2024-12-15 23:05",
+      "title": "Tierra",
+      "subtitle": "Xoel López • Atlántico",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m14",
+      "type": "Music",
+      "date": "2024-12-15 23:05",
+      "title": "The National Anthem",
+      "subtitle": "Radiohead • Kid A",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m15",
+      "type": "Music",
+      "date": "2024-12-15 23:05",
+      "title": "Young Girls",
+      "subtitle": "Bruno Mars • Unorthodox Jukebox",
+      "value": 0.1,
+      "unit": "min"
+    },
+    {
+      "id": "m16",
+      "type": "Music",
+      "date": "2024-12-15 23:05",
+      "title": "Reunion of Friends",
+      "subtitle": "John Williams • Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
+      "value": 0.4,
+      "unit": "min"
+    },
+    {
+      "id": "m17",
+      "type": "Music",
+      "date": "2024-12-15 23:05",
+      "title": "Get Out While You Can",
+      "subtitle": "James Bay • Chaos And The Calm",
+      "value": 4.7,
+      "unit": "min"
+    },
+    {
+      "id": "m18",
+      "type": "Music",
+      "date": "2024-12-15 23:00",
+      "title": "17",
+      "subtitle": "Kings of Leon • Only By The Night",
+      "value": 3.1,
+      "unit": "min"
+    },
+    {
+      "id": "m19",
+      "type": "Music",
+      "date": "2024-12-15 22:57",
+      "title": "Emoji of a Wave",
+      "subtitle": "John Mayer • The Search for Everything",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m20",
+      "type": "Music",
+      "date": "2024-12-15 22:57",
+      "title": "Puccini: La bohème, Act I: Che gelida manina",
+      "subtitle": "Giacomo Puccini • Pavarotti Forever",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m21",
+      "type": "Music",
+      "date": "2024-12-15 22:57",
+      "title": "Hello, Goodbye - Remastered 2009",
+      "subtitle": "The Beatles • Magical Mystery Tour",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m22",
+      "type": "Music",
+      "date": "2024-12-15 22:57",
+      "title": "Castle on the Hill",
+      "subtitle": "Ed Sheeran • ÷",
+      "value": 0.0,
+      "unit": "min"
+    },
+    {
+      "id": "m23",
+      "type": "Music",
+      "date": "2024-12-15 22:57",
+      "title": "Sad Song - Acoustic",
+      "subtitle": "Liam Gallagher • Acoustic Sessions",
+      "value": 1.8,
+      "unit": "min"
+    },
+    {
+      "id": "m24",
+      "type": "Music",
+      "date": "2024-12-15 22:55",
+      "title": "Our Last Days",
+      "subtitle": "The Fray • Helios",
+      "value": 3.7,
+      "unit": "min"
+    },
+    {
+      "id": "m25",
+      "type": "Music",
+      "date": "2024-12-15 22:51",
+      "title": "One of My Turns",
+      "subtitle": "Pink Floyd • The Wall",
+      "value": 3.0,
+      "unit": "min"
+    },
+    {
+      "id": "m26",
+      "type": "Music",
+      "date": "2024-12-15 21:05",
+      "title": "One of My Turns",
+      "subtitle": "Pink Floyd • The Wall",
+      "value": 0.6,
+      "unit": "min"
+    },
+    {
+      "id": "m27",
+      "type": "Music",
+      "date": "2024-12-15 21:04",
+      "title": "I Will Be Found (Lost At Sea)",
+      "subtitle": "John Mayer • Paradise Valley",
+      "value": 4.0,
+      "unit": "min"
+    },
+    {
+      "id": "m28",
+      "type": "Music",
+      "date": "2024-12-15 18:59",
+      "title": "Sweet Hitch-Hiker",
+      "subtitle": "Creedence Clearwater Revival • Mardi Gras",
+      "value": 2.3,
+      "unit": "min"
+    },
+    {
+      "id": "m29",
+      "type": "Music",
+      "date": "2024-12-15 18:56",
+      "title": "If Everyone Cared",
+      "subtitle": "Nickelback • All the Right Reasons",
+      "value": 1.2,
+      "unit": "min"
+    },
+    {
+      "id": "m30",
+      "type": "Music",
+      "date": "2024-12-14 22:30",
+      "title": "L.A. Freeway",
+      "subtitle": "Guy Clark • The Essential Guy Clark",
+      "value": 5.0,
+      "unit": "min"
+    },
+    {
+      "id": "m31",
+      "type": "Music",
+      "date": "2024-12-14 22:25",
+      "title": "Dogs",
+      "subtitle": "Pink Floyd • Animals",
+      "value": 17.1,
+      "unit": "min"
+    },
+    {
+      "id": "m32",
+      "type": "Music",
+      "date": "2024-12-14 22:08",
+      "title": "I'm Alive",
+      "subtitle": "Johnny Thunder • American Animals (Original Motion Picture Soundtrack)",
+      "value": 2.9,
+      "unit": "min"
+    },
+    {
+      "id": "m33",
+      "type": "Music",
+      "date": "2024-12-14 22:05",
+      "title": "Heartless",
+      "subtitle": "Kanye West • 808s & Heartbreak",
+      "value": 3.5,
+      "unit": "min"
+    },
+    {
+      "id": "m34",
+      "type": "Music",
+      "date": "2024-12-14 22:01",
+      "title": "Living Loving Maid (She's Just a Woman) - Remaster",
+      "subtitle": "Led Zeppelin • Led Zeppelin II",
+      "value": 2.7,
+      "unit": "min"
+    },
+    {
+      "id": "m35",
+      "type": "Music",
+      "date": "2024-12-14 21:58",
+      "title": "I'll Follow The Sun - Remastered 2009",
+      "subtitle": "The Beatles • Beatles For Sale",
+      "value": 1.8,
+      "unit": "min"
+    },
+    {
+      "id": "m36",
+      "type": "Music",
+      "date": "2024-12-14 21:57",
+      "title": "Every Night",
+      "subtitle": "Imagine Dragons • Night Visions",
+      "value": 3.6,
+      "unit": "min"
+    },
+    {
+      "id": "m37",
+      "type": "Music",
+      "date": "2024-12-14 21:53",
+      "title": "Según Quién",
+      "subtitle": "Maluma • Don Juan",
+      "value": 2.4,
+      "unit": "min"
+    },
+    {
+      "id": "m38",
+      "type": "Music",
+      "date": "2024-12-13 16:10",
+      "title": "If Everyone Cared",
+      "subtitle": "Nickelback • All the Right Reasons",
+      "value": 2.4,
+      "unit": "min"
+    },
+    {
+      "id": "m39",
+      "type": "Music",
+      "date": "2024-12-13 01:23",
+      "title": "Me haces bien",
+      "subtitle": "Jorge Drexler • Sea",
+      "value": 3.1,
+      "unit": "min"
+    },
+    {
+      "id": "s0",
+      "type": "Spending",
+      "date": "2024-04-16 11:16",
+      "title": "Fitness And Medical",
+      "subtitle": "fraud_Dey-Manda Pvt Ltd",
+      "value": 5729.54,
+      "unit": "INR"
+    },
+    {
+      "id": "s1",
+      "type": "Spending",
+      "date": "2024-04-16 11:16",
+      "title": "Fitness And Medical",
+      "subtitle": "fraud_Dey-Manda Pvt Ltd",
+      "value": 5729.54,
+      "unit": "INR"
+    },
+    {
+      "id": "s2",
+      "type": "Spending",
+      "date": "2024-04-16 11:16",
+      "title": "Fitness And Medical",
+      "subtitle": "fraud_Dey-Manda Pvt Ltd",
+      "value": 5729.54,
+      "unit": "INR"
+    },
+    {
+      "id": "s3",
+      "type": "Spending",
+      "date": "2024-04-16 11:16",
+      "title": "Fitness And Medical",
+      "subtitle": "fraud_Dey-Manda Pvt Ltd",
+      "value": 5729.54,
+      "unit": "INR"
+    },
+    {
+      "id": "s4",
+      "type": "Spending",
+      "date": "2024-04-16 11:16",
+      "title": "Fitness And Medical",
+      "subtitle": "fraud_Dey-Manda Pvt Ltd",
+      "value": 5729.54,
+      "unit": "INR"
+    },
+    {
+      "id": "s5",
+      "type": "Spending",
+      "date": "2024-04-16 11:16",
+      "title": "Fitness And Medical",
+      "subtitle": "fraud_Dey-Manda Pvt Ltd",
+      "value": 5729.54,
+      "unit": "INR"
+    },
+    {
+      "id": "s6",
+      "type": "Spending",
+      "date": "2024-04-16 11:16",
+      "title": "Fitness And Medical",
+      "subtitle": "fraud_Dey-Manda Pvt Ltd",
+      "value": 5729.54,
+      "unit": "INR"
+    },
+    {
+      "id": "s7",
+      "type": "Spending",
+      "date": "2024-04-16 11:16",
+      "title": "Fitness And Medical",
+      "subtitle": "fraud_Dey-Manda Pvt Ltd",
+      "value": 5729.54,
+      "unit": "INR"
+    },
+    {
+      "id": "s8",
+      "type": "Spending",
+      "date": "2024-04-15 03:26",
+      "title": "Travel",
+      "subtitle": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+      "value": 8761.71,
+      "unit": "INR"
+    },
+    {
+      "id": "s9",
+      "type": "Spending",
+      "date": "2024-04-15 03:26",
+      "title": "Travel",
+      "subtitle": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+      "value": 8761.71,
+      "unit": "INR"
+    },
+    {
+      "id": "s10",
+      "type": "Spending",
+      "date": "2024-04-15 03:26",
+      "title": "Travel",
+      "subtitle": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+      "value": 8761.71,
+      "unit": "INR"
+    },
+    {
+      "id": "s11",
+      "type": "Spending",
+      "date": "2024-04-15 03:26",
+      "title": "Travel",
+      "subtitle": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+      "value": 8761.71,
+      "unit": "INR"
+    },
+    {
+      "id": "s12",
+      "type": "Spending",
+      "date": "2024-04-15 03:26",
+      "title": "Travel",
+      "subtitle": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+      "value": 8761.71,
+      "unit": "INR"
+    },
+    {
+      "id": "s13",
+      "type": "Spending",
+      "date": "2024-04-15 03:26",
+      "title": "Travel",
+      "subtitle": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+      "value": 8761.71,
+      "unit": "INR"
+    },
+    {
+      "id": "s14",
+      "type": "Spending",
+      "date": "2024-04-14 19:31",
+      "title": "Entertainment",
+      "subtitle": "fraud_Cheema Group Pvt Ltd",
+      "value": 9765.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s15",
+      "type": "Spending",
+      "date": "2024-04-14 19:31",
+      "title": "Entertainment",
+      "subtitle": "fraud_Cheema Group Pvt Ltd",
+      "value": 9765.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s16",
+      "type": "Spending",
+      "date": "2024-04-14 19:31",
+      "title": "Entertainment",
+      "subtitle": "fraud_Cheema Group Pvt Ltd",
+      "value": 9765.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s17",
+      "type": "Spending",
+      "date": "2024-04-14 19:31",
+      "title": "Entertainment",
+      "subtitle": "fraud_Cheema Group Pvt Ltd",
+      "value": 9765.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s18",
+      "type": "Spending",
+      "date": "2024-04-14 19:31",
+      "title": "Entertainment",
+      "subtitle": "fraud_Cheema Group Pvt Ltd",
+      "value": 9765.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s19",
+      "type": "Spending",
+      "date": "2024-04-14 19:31",
+      "title": "Entertainment",
+      "subtitle": "fraud_Cheema Group Pvt Ltd",
+      "value": 9765.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s20",
+      "type": "Spending",
+      "date": "2024-04-14 19:31",
+      "title": "Entertainment",
+      "subtitle": "fraud_Cheema Group Pvt Ltd",
+      "value": 9765.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s21",
+      "type": "Spending",
+      "date": "2024-04-14 12:52",
+      "title": "Entertainment",
+      "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+      "value": 4420.76,
+      "unit": "INR"
+    },
+    {
+      "id": "s22",
+      "type": "Spending",
+      "date": "2024-04-14 12:52",
+      "title": "Entertainment",
+      "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+      "value": 4420.76,
+      "unit": "INR"
+    },
+    {
+      "id": "s23",
+      "type": "Spending",
+      "date": "2024-04-14 12:52",
+      "title": "Entertainment",
+      "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+      "value": 4420.76,
+      "unit": "INR"
+    },
+    {
+      "id": "s24",
+      "type": "Spending",
+      "date": "2024-04-14 12:52",
+      "title": "Entertainment",
+      "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+      "value": 4420.76,
+      "unit": "INR"
+    },
+    {
+      "id": "s25",
+      "type": "Spending",
+      "date": "2024-04-14 12:52",
+      "title": "Entertainment",
+      "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+      "value": 4420.76,
+      "unit": "INR"
+    },
+    {
+      "id": "s26",
+      "type": "Spending",
+      "date": "2024-04-14 12:52",
+      "title": "Entertainment",
+      "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+      "value": 4420.76,
+      "unit": "INR"
+    },
+    {
+      "id": "s27",
+      "type": "Spending",
+      "date": "2024-04-14 12:52",
+      "title": "Entertainment",
+      "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+      "value": 4420.76,
+      "unit": "INR"
+    },
+    {
+      "id": "s28",
+      "type": "Spending",
+      "date": "2024-04-14 12:52",
+      "title": "Entertainment",
+      "subtitle": "fraud_Sheth-Karan Pvt Ltd",
+      "value": 4420.76,
+      "unit": "INR"
+    },
+    {
+      "id": "s29",
+      "type": "Spending",
+      "date": "2024-04-13 20:29",
+      "title": "Online Shopping",
+      "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+      "value": 5766.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s30",
+      "type": "Spending",
+      "date": "2024-04-13 20:29",
+      "title": "Online Shopping",
+      "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+      "value": 5766.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s31",
+      "type": "Spending",
+      "date": "2024-04-13 20:29",
+      "title": "Online Shopping",
+      "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+      "value": 5766.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s32",
+      "type": "Spending",
+      "date": "2024-04-13 20:29",
+      "title": "Online Shopping",
+      "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+      "value": 5766.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s33",
+      "type": "Spending",
+      "date": "2024-04-13 20:29",
+      "title": "Online Shopping",
+      "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+      "value": 5766.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s34",
+      "type": "Spending",
+      "date": "2024-04-13 20:29",
+      "title": "Online Shopping",
+      "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+      "value": 5766.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s35",
+      "type": "Spending",
+      "date": "2024-04-13 20:29",
+      "title": "Online Shopping",
+      "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+      "value": 5766.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s36",
+      "type": "Spending",
+      "date": "2024-04-13 20:29",
+      "title": "Online Shopping",
+      "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+      "value": 5766.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s37",
+      "type": "Spending",
+      "date": "2024-04-13 20:29",
+      "title": "Online Shopping",
+      "subtitle": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+      "value": 5766.94,
+      "unit": "INR"
+    },
+    {
+      "id": "s38",
+      "type": "Spending",
+      "date": "2024-04-12 12:22",
+      "title": "Entertainment",
+      "subtitle": "fraud_Mall Ltd Pvt Ltd",
+      "value": 3226.34,
+      "unit": "INR"
+    },
+    {
+      "id": "s39",
+      "type": "Spending",
+      "date": "2024-04-12 12:22",
+      "title": "Entertainment",
+      "subtitle": "fraud_Mall Ltd Pvt Ltd",
+      "value": 3226.34,
+      "unit": "INR"
+    },
+    {
+      "id": "d0",
+      "type": "Daily Life",
+      "date": "2018-09-20 12:04",
+      "title": "Transportation",
+      "subtitle": "Train",
+      "value": 30.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d1",
+      "type": "Daily Life",
+      "date": "2018-09-20 12:03",
+      "title": "Food",
+      "subtitle": "snacks",
+      "value": 60.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d2",
+      "type": "Daily Life",
+      "date": "2018-09-17 23:41",
+      "title": "subscription",
+      "subtitle": "Mobile Service Provider",
+      "value": 19.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d3",
+      "type": "Daily Life",
+      "date": "2018-09-16 17:15",
+      "title": "Festivals",
+      "subtitle": "Ganesh Pujan",
+      "value": 251.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d4",
+      "type": "Daily Life",
+      "date": "2018-09-15 06:34",
+      "title": "subscription",
+      "subtitle": "Tata Sky",
+      "value": 200.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d5",
+      "type": "Daily Life",
+      "date": "2018-09-14 05:39",
+      "title": "Transportation",
+      "subtitle": "auto",
+      "value": 50.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d6",
+      "type": "Daily Life",
+      "date": "2018-09-13 21:35",
+      "title": "Transportation",
+      "subtitle": "Train",
+      "value": 40.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d7",
+      "type": "Daily Life",
+      "date": "2018-09-13 21:01",
+      "title": "Other",
+      "subtitle": "HBR 2 Months subscription",
+      "value": 83.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d8",
+      "type": "Daily Life",
+      "date": "2018-09-13 21:01",
+      "title": "Food",
+      "subtitle": "Grocery",
+      "value": 46.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d9",
+      "type": "Daily Life",
+      "date": "2018-08-31 15:12",
+      "title": "Gift",
+      "subtitle": "farewell contribution",
+      "value": 118.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d10",
+      "type": "Daily Life",
+      "date": "2018-08-31 15:12",
+      "title": "Family",
+      "subtitle": "Pocket money",
+      "value": 1000.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d11",
+      "type": "Daily Life",
+      "date": "2018-08-31 10:01",
+      "title": "Food",
+      "subtitle": "Dinner",
+      "value": 510.85,
+      "unit": "INR"
+    },
+    {
+      "id": "d12",
+      "type": "Daily Life",
+      "date": "2018-08-31 09:27",
+      "title": "Salary",
+      "subtitle": "From workplace ",
+      "value": 70255.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d13",
+      "type": "Daily Life",
+      "date": "2018-08-31 09:26",
+      "title": "Food",
+      "subtitle": "Milk",
+      "value": 36.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d14",
+      "type": "Daily Life",
+      "date": "2018-08-30 21:10",
+      "title": "Food",
+      "subtitle": "Sweets",
+      "value": 78.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d15",
+      "type": "Daily Life",
+      "date": "2018-08-30 21:09",
+      "title": "Household",
+      "subtitle": "Kirana",
+      "value": 343.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d16",
+      "type": "Daily Life",
+      "date": "2018-08-29 12:21",
+      "title": "Food",
+      "subtitle": "Grocery",
+      "value": 27.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d17",
+      "type": "Daily Life",
+      "date": "2018-08-29 12:21",
+      "title": "Food",
+      "subtitle": "Ice cream",
+      "value": 15.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d18",
+      "type": "Daily Life",
+      "date": "2018-08-29 12:11",
+      "title": "Food",
+      "subtitle": "Milk",
+      "value": 36.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d19",
+      "type": "Daily Life",
+      "date": "2018-08-28 21:04",
+      "title": "Dividend earned on Shares",
+      "subtitle": "Astral Stocks",
+      "value": 6.75,
+      "unit": "INR"
+    },
+    {
+      "id": "d20",
+      "type": "Daily Life",
+      "date": "2018-08-28 19:16",
+      "title": "Dividend earned on Shares",
+      "subtitle": "Reliance Stocks",
+      "value": 18.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d21",
+      "type": "Daily Life",
+      "date": "2018-08-27 21:30",
+      "title": "Food",
+      "subtitle": "curd",
+      "value": 20.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d22",
+      "type": "Daily Life",
+      "date": "2018-08-27 10:52",
+      "title": "Food",
+      "subtitle": "breakfast",
+      "value": 60.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d23",
+      "type": "Daily Life",
+      "date": "2018-08-27 10:52",
+      "title": "Food",
+      "subtitle": "Biscuits",
+      "value": 45.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d24",
+      "type": "Daily Life",
+      "date": "2018-08-27 10:52",
+      "title": "Food",
+      "subtitle": "Milk",
+      "value": 36.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d25",
+      "type": "Daily Life",
+      "date": "2018-08-26 21:04",
+      "title": "Interest",
+      "subtitle": "interest paid",
+      "value": 30.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d26",
+      "type": "Daily Life",
+      "date": "2018-08-25 21:04",
+      "title": "Apparel",
+      "subtitle": "Laundry",
+      "value": 91.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d27",
+      "type": "Daily Life",
+      "date": "2018-08-24 22:13",
+      "title": "Food",
+      "subtitle": "Dinner",
+      "value": 1120.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d28",
+      "type": "Daily Life",
+      "date": "2018-08-24 22:12",
+      "title": "Other",
+      "subtitle": "From Family",
+      "value": 1000.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d29",
+      "type": "Daily Life",
+      "date": "2018-08-24 20:20",
+      "title": "Food",
+      "subtitle": "Rajgira ladu",
+      "value": 20.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d30",
+      "type": "Daily Life",
+      "date": "2018-08-24 20:17",
+      "title": "Food",
+      "subtitle": "Milk",
+      "value": 36.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d31",
+      "type": "Daily Life",
+      "date": "2018-08-24 13:34",
+      "title": "Festivals",
+      "subtitle": "Navratri",
+      "value": 1000.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d32",
+      "type": "Daily Life",
+      "date": "2018-08-23 21:29",
+      "title": "Transportation",
+      "subtitle": "train",
+      "value": 1305.4,
+      "unit": "INR"
+    },
+    {
+      "id": "d33",
+      "type": "Daily Life",
+      "date": "2018-08-23 21:29",
+      "title": "Transportation",
+      "subtitle": "train",
+      "value": 1205.4,
+      "unit": "INR"
+    },
+    {
+      "id": "d34",
+      "type": "Daily Life",
+      "date": "2018-08-23 19:55",
+      "title": "Food",
+      "subtitle": "Lunch",
+      "value": 60.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d35",
+      "type": "Daily Life",
+      "date": "2018-08-22 22:31",
+      "title": "Food",
+      "subtitle": "Milk",
+      "value": 37.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d36",
+      "type": "Daily Life",
+      "date": "2018-08-21 16:15",
+      "title": "Food",
+      "subtitle": "Tea",
+      "value": 12.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d37",
+      "type": "Daily Life",
+      "date": "2018-08-21 16:15",
+      "title": "Food",
+      "subtitle": "Milk",
+      "value": 36.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d38",
+      "type": "Daily Life",
+      "date": "2018-08-17 20:06",
+      "title": "Food",
+      "subtitle": "curd",
+      "value": 20.0,
+      "unit": "INR"
+    },
+    {
+      "id": "d39",
+      "type": "Daily Life",
+      "date": "2018-08-17 19:21",
+      "title": "Food",
+      "subtitle": "Milk",
+      "value": 36.0,
+      "unit": "INR"
+    }
+  ]
+}
